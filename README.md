@@ -1,7 +1,8 @@
 # cli-demo-project
 
-Demo of using my CLI project:
+
 ![Alt Text](https://media.giphy.com/media/jTHxrfx3VraZ6kHWsu/giphy.gif)
+
 
 Instructions:
 After cloning this github, simply go into the cloned folder and in the root directory, use the commands
