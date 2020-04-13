@@ -6,5 +6,4 @@
 
 Instructions:
 After cloning this github, simply go into the cloned folder and in the root directory, use the commands
-`node app.js [command] [,options]`
-to add, delete, remove, or edit todo options onto a list. 
+`node app.js [command] [,options]` to add, delete, remove, or edit todo options onto a list. Start with ```node app.js list-commands``` to see all available options.
